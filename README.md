@@ -14,4 +14,22 @@ https://drive.google.com/file/d/1ECEsE9SIlTl64vtcYlzWbm0sV1c-1IhS/view
 
 <img width="1736" height="679" alt="image" src="https://github.com/user-attachments/assets/69e1b6da-35ff-4686-8f56-b018e03e2a40" />
 
+Mapeamento de Pinos Completo na ShieldBuddy TC375:
+
+
+#Periférico                   Pino do Módulo             Pino na ShieldBuddy TC375           Função
+
+    MicroSD	                 CS                         Pin 10	                            Seleção do Cartão SD  
+    OLED 1.27"               CS	                        Pin 9	                              Seleção da Tela OLED
+    OLED 1.27"	             DC	                        Pin 8	                              Dados / Comando (Data/Command)
+    OLED 1.27"	             RES	                      Pin 7	                              Reset do Display
+    SPI Compartilhado	       SCK / CLK	                Pin 13	                            Clock SPI
+    SPI Compartilhado	       MOSI / DIN	                Pin 11	                            Dados SPI (Master Out Slave In)
+    SPI Compartilhado	       MISO / SO	                Pin 12	                            Dados SPI (Master In Slave Out - Usado só pelo SD)
+
+
+<img width="417" height="665" alt="image" src="https://github.com/user-attachments/assets/7fdc30ab-3cec-449d-862b-81c473a2be95" />
+
+
+
 
