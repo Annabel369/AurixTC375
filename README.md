@@ -1,7 +1,8 @@
 # AurixTC375
 AurixTC375  Support https://github.com/Annabel369/Infineon
 
-<img width="481" height="615" alt="image" src="https://github.com/user-attachments/assets/19b04791-220e-42d8-915a-ff24f8b0c1f6" />
+<img width="912" height="1166" alt="Gemini_Generated_Image_w6eeflw6eeflw6ee" src="https://github.com/user-attachments/assets/728d8465-d396-40c6-bddb-e776fdff88d9" />
+
 
 
 <img width="1292" height="784" alt="image" src="https://github.com/user-attachments/assets/964e09b0-6066-4bed-a7d8-a4886ed571a3" />
