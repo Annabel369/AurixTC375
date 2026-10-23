@@ -1,5 +1,5 @@
 # AurixTC375
-AurixTC375
+AurixTC375  Support https://github.com/Annabel369/Infineon
 
 <img width="1292" height="784" alt="image" src="https://github.com/user-attachments/assets/964e09b0-6066-4bed-a7d8-a4886ed571a3" />
 
